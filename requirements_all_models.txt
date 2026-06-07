@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+sktime[all_extras]
+tsai
+torch
+fastai

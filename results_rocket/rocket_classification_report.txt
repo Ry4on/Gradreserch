@@ -1,0 +1,23 @@
+ROCKET Results
+{
+    "model": "ROCKET",
+    "accuracy": 1.0,
+    "precision_weighted": 1.0,
+    "recall_weighted": 1.0,
+    "f1_weighted": 1.0,
+    "train_time_seconds": 844.2296022999799,
+    "predict_time_seconds": 117.82724020001478,
+    "target_length": 2048,
+    "num_kernels": 10000
+}
+
+Classification report:
+              precision    recall  f1-score   support
+
+      Normal       1.00      1.00      1.00       432
+ Inner Fault       1.00      1.00      1.00       432
+ Outer Fault       1.00      1.00      1.00       432
+
+    accuracy                           1.00      1296
+   macro avg       1.00      1.00      1.00      1296
+weighted avg       1.00      1.00      1.00      1296
